@@ -14,18 +14,7 @@
 
 ### Коммиты
 ```
-85987d6 (HEAD -> master, origin/master, origin/HEAD) Update titanic dataset: "Restore data for Passenger 1"
-ad6e2da Update titanic dataset: "Add one-hot-encoding for sex field"
-1120321 Add sex_one_hot.py
-605bfe3 Update titanic dataset: nan values replace to mean
-4263257 Add replace_nan_to_mean.py
-876a1fd Update info Passenger 1. Change Pclass, Sex, Age
-9f27fa0 Add loader for dataset titanic
-739ce32 Add datasets titanic, remove irises
-464575d Add datasets gitignore information
-2040652 Add datasets gitignore information
-bfa5086 Rename datasets folder
-f2d0300 Add dvc
+
 ```
 ### Дополнения
 Для переключения между версиями датасета использовал следующую конструкцию
