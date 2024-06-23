@@ -33,6 +33,6 @@ dvc pull
 ```
 Для возвращения к текущей актуальной версии датасета
 ```
-git checkout master
+git checkout main
 dvc pull
 ```
