@@ -93,6 +93,18 @@ lab3/docker-compose.yaml
 ```
 
 
+Скриншоты рабочего приложения
+
+```
+/lab3/img/
+```
+
+
+![Screenshot1](https://github.com/srtxtex/mlops_1/blob/main/lab3/img/screen1.png)
+
+
+![Screenshot2](https://github.com/srtxtex/mlops_1/blob/main/lab3/img/screen2.png)
+
 
 
 
