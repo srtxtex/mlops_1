@@ -14,7 +14,15 @@
 
 ### Коммиты
 ```
-
+$ git log --oneline
+eae6db3 (HEAD -> main, origin/main) Update titanic dataset: "Add one-hot-encoding for sex field"
+3d94bc1 Update titanic dataset: nan values replace to mean
+53cc195 Update info Passenger 1. Change Pclass, Sex, Age
+d6547e9 improvements scripts
+79f4ade load titanic dataset
+4f01c10 hw4
+e95a0ab hw4
+30b4300 hw4
 ```
 ### Дополнения
 Для переключения между версиями датасета использовал следующую конструкцию
