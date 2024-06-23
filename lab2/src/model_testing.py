@@ -4,7 +4,7 @@ import joblib
 import os
 
 
-# Создание переменной с путем корневой директории hw1
+# Создание переменной с путем корневой директории lab2
 dirname = os.path.dirname(os.path.dirname(__file__))
 
 

@@ -14,7 +14,7 @@
 - docker - содержит Docker файл и скрипт установки и запуска кобраза и контейнера с Jenkins
 - img - скриншот рабочего пайплана в Jenkins
 
-![Screenshot](https://github.com/srtxtex/mlops_1/blob/main/hw2/img/screen.png)
+![Screenshot](https://github.com/srtxtex/mlops_1/blob/main/lab2/img/screen.png)
 
 ### Последовательность выполнения операций в сборке
 

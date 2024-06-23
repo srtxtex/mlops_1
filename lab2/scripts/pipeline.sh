@@ -25,10 +25,10 @@ python3 -m venv "$BUILD_DIR/.venv" || { echo "Ошибка при создани
 source "$BUILD_DIR/.venv/bin/activate" || { echo "Ошибка при активации виртуального окружения."; exit 1; }
 
 # Установка зависимостей
-pip install -r "$BUILD_DIR/hw2/requirements.txt" || { echo "Ошибка при установке зависимостей."; exit 1; }
+pip install -r "$BUILD_DIR/lab2/requirements.txt" || { echo "Ошибка при установке зависимостей."; exit 1; }
 
 # Переход в каталог src
-cd "$BUILD_DIR/hw2/src" || { echo "Не удалось перейти в каталог src"; exit 1; }
+cd "$BUILD_DIR/lab2/src" || { echo "Не удалось перейти в каталог src"; exit 1; }
 
 echo "Запуск создания данных"
 python data_creation.py || { echo "Ошибка при выполнении data_creation.py"; exit 1; }

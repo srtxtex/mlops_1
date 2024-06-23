@@ -6,7 +6,7 @@ from sklearn.model_selection import train_test_split
 from sklearn.metrics import root_mean_squared_error
 
 
-# Создание переменной с путем корневой директории hw1
+# Создание переменной с путем корневой директории lab2
 dirname = os.path.dirname(os.path.dirname(__file__))
 
 
