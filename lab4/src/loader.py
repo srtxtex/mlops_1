@@ -2,7 +2,7 @@ from catboost.datasets import titanic
 import os
 
 
-# Создание переменной с путем корневой директории lab1
+# Создание переменной с путем корневой директории lab4
 dirname = os.path.dirname(os.path.dirname(__file__))
 
 # Загрузка датасета
